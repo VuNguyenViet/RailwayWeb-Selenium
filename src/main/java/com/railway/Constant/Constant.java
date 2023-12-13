@@ -1,2 +1,7 @@
-package com.railway.Constant;public class Constant {
+package com.railway.Constant;
+
+import org.openqa.selenium.WebDriver;
+
+public class Constant {
+
 }

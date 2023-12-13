@@ -1,2 +1,4 @@
-package test.Login;public class LoginTest {
+package test.Login;
+
+public class LoginTest {
 }

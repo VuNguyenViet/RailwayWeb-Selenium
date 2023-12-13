@@ -1,2 +1,4 @@
-package com.railway.pageObject;public class BasePage {
+package com.railway.pageObject;
+
+public class BasePage {
 }
