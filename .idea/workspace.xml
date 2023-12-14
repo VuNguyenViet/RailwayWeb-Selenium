@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d712133-6607-414c-8985-ca67664648f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/railway/Common/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/railway/Common/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/railway/Common/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/railway/Common/Utilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/railway/Common/WebElementManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/railway/dataObject/BookTicketData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/railway/dataObject/ExistedAccountData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/railway/dataObject/NewAccountData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/railway/Common/Ultilities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/railway/Common/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/railway/Common/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/railway/Common/JsonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/railway/Common/JsonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/railway/Common/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/railway/Common/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/railway/Common/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/railway/Common/Utilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/railway/Common/WebElementManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/railway/Common/WebElementManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/railway/Constant/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/railway/Constant/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/railway/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/railway/pageObject/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/railway/pageObject/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/railway/pageObject/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/railway/pageObject/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/railway/pageObject/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/railway/pageObject/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/Login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/Login/LoginTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +36,16 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2ZFYMCLFPk2olUe6FZqaUbyr0YI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -56,9 +56,32 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/macos/Desktop/RailWay/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="DriverManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.railway.Common.DriverManager" />
+      <module name="RailWay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.railway.Common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DriverManager" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,10 +96,30 @@
       <workItem from="1702258345494" duration="57000" />
       <workItem from="1702343969506" duration="5734000" />
       <workItem from="1702365149463" duration="1956000" />
+      <workItem from="1702431542469" duration="5002000" />
+      <workItem from="1702515839079" duration="2035000" />
+      <workItem from="1702521219445" duration="2463000" />
+      <workItem from="1702526535675" duration="975000" />
+      <workItem from="1702536458065" duration="218000" />
+      <workItem from="1702536833733" duration="914000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/railway/Constant/Constant.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
